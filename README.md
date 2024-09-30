@@ -1,4 +1,5 @@
 Mine Prediction using Logistic Regression
+
 Overview
 This project is designed to predict whether a given sample represents a mine or rock using a Logistic Regression model. The dataset used in this project contains information related to sonar signals bounced off various objects, and the goal is to classify these objects as either a mine or not.
 
